@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "E:\\tensorflow_text",
+  "password": false,
+  "pid": 5500,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "a8063884865015b563b8219dac5865e05b141cbb8087063d",
+  "url": "http://localhost:8888/"
+}
